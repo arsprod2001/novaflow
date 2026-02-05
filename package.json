@@ -1,0 +1,61 @@
+{
+  "name": "novaflow",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "Novaflow – Your ultimate interactive CLI toolbox for developers",
+  "type": "module",
+  "bin": {
+    "novaflow": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "build": "echo 'Build completed'",
+    "test": "jest",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "keywords": [
+    "devops",
+    "docker",
+    "git",
+    "tools",
+    "productivity",
+    "developer-tools",
+    "cli",
+    "developer-tools",
+    "kubernetes",
+    "npm",
+    "terminal",
+    "toolbox"
+  ],
+  "author": "Amadou Sow <contact@amadousow.dev>",
+  "license": "MIT",
+  "homepage": "https://github.com/amadousow/novaflow",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/amadousow/novaflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amadousow/novaflow/issues"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "chalk-animation": "^2.0.3",
+    "cli-table3": "^0.6.5",
+    "commander": "^14.0.3",
+    "date-fns": "^4.1.0",
+    "execa": "^9.6.1",
+    "figlet": "^1.10.0",
+    "gradient-string": "^3.0.0",
+    "nanospinner": "^1.2.2",
+    "ora": "^9.1.0",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.1"
+  }
+}
