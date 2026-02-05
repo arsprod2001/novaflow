@@ -92,9 +92,6 @@ jobs:
           path: dist/
           retention-days: 7
 
-  # ============================================
-  # Job 3: Security Audit
-  # ============================================
   security:
     name: Security Audit
     runs-on: ubuntu-latest
