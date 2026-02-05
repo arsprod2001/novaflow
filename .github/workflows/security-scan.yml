@@ -72,7 +72,7 @@ jobs:
 
       - name: Upload ESLint report
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: eslint-security-report
           path: eslint-report.json
@@ -102,7 +102,7 @@ jobs:
 
       - name: Upload license report
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: license-report
           path: licenses.json
