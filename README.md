@@ -452,7 +452,7 @@ Thanks to all contributors and the open-source community for:
 
 ## 📊 Statistics
 
-![Alt](https://repobeats.axiom.co/api/embed/your-repo-id.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/84aaae40214802a9b0d34f4befa7560ef52172a5.svg "Repobeats analytics image")
 
 ---
 
