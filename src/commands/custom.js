@@ -124,9 +124,7 @@ export class CustomCommands {
     console.log(`\n📝 Editing command: ${name}`);
     console.log(`Current command: ${currentCommand.command}`);
     console.log(`Current description: ${currentCommand.description || '(none)'}`);
-    
-    // In a real implementation, you would prompt for new values
-    // For now, we'll just show how it could work
+
     UI.info('Editing functionality would be implemented with user prompts.');
     return true;
   }
@@ -187,7 +185,6 @@ export class CustomCommands {
       const data = fs.readFileSync(filePath, 'utf8');
       const imported = JSON.parse(data);
       
-      // Handle both old format (just commands) and new format (with metadata)
       const commandsToImport = imported.commands || imported;
       
       if (typeof commandsToImport !== 'object') {

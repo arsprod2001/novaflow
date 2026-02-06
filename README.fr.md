@@ -1,51 +1,60 @@
 <h1 align="center"
     style="
-      font-size: 3.6rem;
+      font-size: 3.8rem;
       font-weight: 900;
-      letter-spacing: 0.4px;
-      margin-bottom: -70px;
+      letter-spacing: 0.6px;
+      margin-bottom: -10px;
       font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     ">
   <span style="color:#6C63FF;">Nova</span><span style="color:#00D4FF;">flow</span>
 </h1>
 
-<p align="center" style="margin-top: -2px; margin-bottom: -70px;">
-  <img src="src/assets/logo.png" alt="Novaflow Logo" width="250">
+<p align="center" style="margin-top: 0;">
+  <strong>
+    Le CLI moderne qui centralise votre workflow de développement
+  </strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg" alt="Node">
-  <img src="https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  <img src="src/assets/logo.png" alt="Novaflow Logo" width="220">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/arsprod2001/novaflow" alt="License">
-
-  <img src="https://img.shields.io/github/stars/arsprod2001/novaflow" alt="Stars">
-
-  <img src="https://img.shields.io/github/issues/arsprod2001/novaflow" alt="Issues">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 <p align="center">
-  <a href="README.md">🇬🇧 Anglais</a> · 
-  <a href="README.fr.md">🇫🇷 Français</a>
+  <img src="https://img.shields.io/github/stars/arsprod2001/novaflow" />
+  <img src="https://img.shields.io/github/issues/arsprod2001/novaflow" />
 </p>
 
 <p align="center">
-  <strong>Votre assistant de développement ultime en ligne de commande</strong>
+  🌍 <a href="README.md">English</a> · 🇫🇷 <a href="README.fr.md">Français</a>
 </p>
 
 <p align="center">
-  Une boîte à outils complète et interactive pour gérer Docker, Git, NPM, bases de données, 
-  monitoring système et bien plus encore, le tout depuis votre terminal préféré.
+  NovaFlow est un <strong>CLI interactif et cross-platform</strong> conçu pour les développeurs  
+  qui veulent <strong>gérer Docker, Git, bases de données et environnement système</strong>  
+  depuis un <strong>seul outil cohérent et rapide</strong>.
 </p>
 
 <p align="center">
-  <img src="src/assets/demo.gif" alt="Novaflow CLI Demo" width="700">
+  <em>
+    Moins de commandes à mémoriser.  
+    Moins d’outils dispersés.  
+    Plus de focus sur le code.
+  </em>
 </p>
+
+<p align="center">
+  <img src="src/assets/demo.gif" alt="Novaflow CLI Demo" width="760">
+</p>
+
+<hr />
 
 ---
 

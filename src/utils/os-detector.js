@@ -1,4 +1,3 @@
-// src/utils/os-detector.js
 import os from 'os';
 
 export class OSDetector {

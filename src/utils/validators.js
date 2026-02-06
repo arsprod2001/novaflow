@@ -1,5 +1,3 @@
-// src/utils/validators.js
-
 export function isNotEmpty(value) {
   return value && value.trim().length > 0;
 }
