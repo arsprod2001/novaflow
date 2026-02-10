@@ -59,18 +59,18 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [✨ Features](#-features)
-- [🚀 Installation](#-installation)
-- [📖 Usage](#-usage)
-- [🔧 Custom Commands](#-custom-commands)
-- [🛠️ Development](#️-development)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
-- [📞 Support](#-support)
-- [🌟 Star History](#-star-history)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Custom Commands](#-custom-commands)
+- [Development](#️-development)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Support](#-support)
+- [Star History](#-star-history)
 
 
 ---
